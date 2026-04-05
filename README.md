@@ -1,0 +1,2 @@
+# nutra-AI
+NutriAI is an AI-powered diet recommendation system that creates personalized meal plans based on user data like age, weight, and goals. It uses machine learning to optimize nutrition, track calories, and improve suggestions through feedback, helping users achieve a healthier lifestyle.
